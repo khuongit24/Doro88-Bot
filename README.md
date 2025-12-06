@@ -1,2 +1,2 @@
 # Doro88-Bot
-Bot discord giải trí All In One
+Mã nguồn Doro88 Bot
