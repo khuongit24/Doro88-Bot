@@ -1,0 +1,25 @@
+{
+  "name": "doro88-bot",
+  "version": "1.1.2",
+  "description": "A premium Discord entertainment bot focused on gacha, casino, and card games",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "gacha",
+    "casino",
+    "entertainment"
+  ],
+  "author": "Doro88",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sql.js": "^1.10.3",
+    "dotenv": "^16.3.1"
+  }
+}
